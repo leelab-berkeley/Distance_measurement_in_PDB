@@ -1,5 +1,3 @@
-__author__="Lee Lab"
-
 import os
 
 # Define the input and output directories
